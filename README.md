@@ -42,12 +42,13 @@ name	VARCHAR(255)	Student name
 marks1	INT	Marks in subject 1
 marks2	INT	Marks in subject 2
 
-Usage![WhatsApp Image 2024-09-06 at 2 33 41 PM](https://github.com/user-attachments/assets/0212bf62-4c28-4888-909b-4ee28ed3e005)
-![WhatsApp Image 2024-09-06 at 2 33 57 PM](https://github.com/user-attachments/assets/a61bed84-23d6-4cd6-8e91-e462f3ff798b)
-![WhatsApp Image 2024-09-06 at 2 34 18 PM](https://github.com/user-attachments/assets/18336c3c-2997-4b30-9a18-d1303f123810)
-
 Adding a Student: Fill in the fields (Name, RollNo, Marks1, Marks2) and click Add Student.
 Viewing Students: Click on Display All to view all students in a table format.
 Searching for a Student: Enter the RollNo and click Search to find a student.
 Updating RollNo: Enter the RollNo to update, the new RollNo, and click Update RollNo.
 Deleting a Student: Enter the RollNo and click Delete to remove the student from the database.
+
+Usage![WhatsApp Image 2024-09-06 at 2 33 41 PM](https://github.com/user-attachments/assets/0212bf62-4c28-4888-909b-4ee28ed3e005)
+![WhatsApp Image 2024-09-06 at 2 33 57 PM](https://github.com/user-attachments/assets/a61bed84-23d6-4cd6-8e91-e462f3ff798b)
+![WhatsApp Image 2024-09-06 at 2 34 18 PM](https://github.com/user-attachments/assets/18336c3c-2997-4b30-9a18-d1303f123810)
+
